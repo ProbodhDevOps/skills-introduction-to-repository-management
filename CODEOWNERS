@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @ProbodhDevOps
+/src/backend/database.py      @ProbodhDevOps
+/src/backend/routers/auth.py  @ProbodhDevOps
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @ProbodhDevOps
